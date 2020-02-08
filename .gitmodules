@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/its-a-learning-experience/react-chat-app-1-frontend.git
